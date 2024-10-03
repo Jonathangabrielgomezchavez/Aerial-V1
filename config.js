@@ -1,7 +1,7 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-let owner = "6289529871790@s.whatsapp.net"
+let owner = "50584887870@s.whatsapp.net"
 global.ownerNumber = owner
 
 global.apikey = ""
